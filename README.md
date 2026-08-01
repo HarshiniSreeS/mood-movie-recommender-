@@ -336,11 +336,10 @@ mood-movie-recommender
 # Team
 
 **Team 17**
-
-- Prakeya S
 - S Harshini Sree
 - Thiyaanesh N R
 - Yuvanidhi R
+- Prakeya S
 
 Faculty Guide
 
